@@ -1,0 +1,9 @@
+{
+  "name": "bailian-doc-upload",
+  "version": "1.0.0",
+  "description": "中转服务：接收Power Automate传来的Base64文件，自动上传到百炼并返回公网URL",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0"
+  }
+}
